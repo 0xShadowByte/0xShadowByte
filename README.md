@@ -13,8 +13,8 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory                       | <a href="https://google.com">Detection Lab</a>|
-| Ticketing System                       | <a href="https://google.com">Detection Lab</a>|
+| Active Directory                       | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
+| Ticketing System                       | <a href="https://google.com">Ticketing System</a>|
 
 ## Tools
 
@@ -30,3 +30,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+## Projects
+- <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
+- Ticket System
