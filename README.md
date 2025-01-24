@@ -22,7 +22,8 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+
 </div>
 
 ### Ticketing System
