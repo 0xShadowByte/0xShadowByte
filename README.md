@@ -25,6 +25,11 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### Ticketing System
+<div>
+    
+</div>
+
 ## Certifications
 
 <div>
