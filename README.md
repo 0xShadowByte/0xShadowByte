@@ -3,7 +3,7 @@
 
 ## Brief Introduction
 
-I'm a dedicated cybersecurity/IT enthusiast transitioning into the field with a strong foundation in security principles. I hold the Google Cybersecurity Certificate and CompTIA Security+ ce Certification, and I’m continuously expanding my knowledge in threat analysis, risk management, and network security. Currently, I'm building a portfolio of projects to showcase my skills and practical understanding of cybersecurity/IT concepts. I'm passionate about protecting digital assets and eager to contribute to the security/IT landscape.
+I'm a dedicated cybersecurity/IT enthusiast transitioning into the field with a strong foundation in security principles. Currently, I'm building a portfolio of projects to showcase my skills and practical understanding of cybersecurity/IT concepts.
 
 ## Objective
 
