@@ -39,4 +39,4 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ## Projects
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
-- Ticket System
+- <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
