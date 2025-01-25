@@ -20,12 +20,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Active Directory
 <div>
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-ChatGPT-412991?&style=for-the-badge&logo=OpenAI&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu%20Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
 
 ### Ticketing System
