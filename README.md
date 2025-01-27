@@ -9,9 +9,9 @@ I'm a dedicated cybersecurity/IT enthusiast transitioning into the field with a 
 
 My goal is to start my career in an IT Help Desk role, where I can apply my knowledge, assist users, and continue growing in the cybersecurity space.
 
-## Skills & Projects
+## Hands-On & Projects
 
-| Skill                                         | Associated Project         |
+| Hands-On Activity                                         | Associated Projects        |
 |-----------------------------------------------|----------------------------|
 | Active Directory                       | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Ticketing System                       | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
