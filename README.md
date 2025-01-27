@@ -38,7 +38,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     
 </div>
 
-### SIEMS Lab
+### SIEM Lab
 <div>
     
 </div>
