@@ -14,8 +14,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Hands-On Activity                                         | Associated Projects        |
 |-----------------------------------------------|----------------------------|
 | Active Directory                       | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
-| Group Policy Management                 | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
+| Group Policy Management                | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
 | Ticketing System                       | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
+| SIEM Lab                               | <a >SIEM Lab</a>
 
 ## Tools
 
@@ -33,6 +34,11 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 </div>
 
 ### Ticketing System
+<div>
+    
+</div>
+
+### SIEMS Lab
 <div>
     
 </div>
