@@ -12,12 +12,12 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 ## Hands-On & Projects
 
 | Hands-On Activity                                         | Associated Projects        |
-|-----------------------------------------------|----------------------------|
-| Active Directory                       | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
-| Group Policy Management                | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
-| File Services                          | <a >Network Sharing</a>|
-| Ticketing System                       | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
-| SIEM Lab                               | <a >SIEM Lab</a>
+|-----------------------------------------------------------|----------------------------|
+| Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
+| Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
+| Setting up Network Sharing on Windows Server                        | <a >Network Sharing</a>|
+| Ticketing System                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
+| SIEM Lab                                                            | <a >SIEM Lab</a>
 
 ## Tools
 
