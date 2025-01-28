@@ -15,7 +15,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 |-----------------------------------------------------------|----------------------------|
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
-| Setting up Network Sharing on Windows Server                        | <a >Network Sharing</a>|
+| Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>|
 | Ticketing System                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | SIEM Lab                                                            | <a >SIEM Lab</a>
 
@@ -32,6 +32,8 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 <div>
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%2010%20Enterprise-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
+
 </div>
 
 ### File Services
@@ -59,5 +61,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 ## Projects
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
 - <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>
+- <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - 
