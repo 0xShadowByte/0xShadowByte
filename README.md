@@ -17,7 +17,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
 | Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>|
 | Ticketing System                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
-| Configure an agent on Linux VM to collect logs and foreward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
+| Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
 
 ## Tools
 
