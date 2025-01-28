@@ -43,14 +43,14 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Ticketing System
 <div>
-    <img src="https://img.shields.io/badge/-VirtualBox%20VM-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali%20Linux%20on%20VirtualBox-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ### SIEM Lab
 <div>
-    
+    <img src="https://img.shields.io/badge/-VirtualBox%20VM-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux%20on%20VirtualBox-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
 </div>
 
 ## Certifications
