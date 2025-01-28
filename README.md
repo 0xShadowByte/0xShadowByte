@@ -18,6 +18,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>|
 | Ticketing System                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
+| Create a honey pot environment to attract threat actors and monitor them | <a href= "https://github.com/0xShadowByte/Azure-Sentinel-SIEM">Azure Sentinel SIEM Lab</a>|
 
 ## Tools
 
@@ -53,6 +54,11 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
 </div>
 
+### Azure Sentinel SIEM Lab
+<div>
+    
+</div>
+
 ## Certifications
 
 <div>
@@ -66,3 +72,4 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>
+- <a href= "https://github.com/0xShadowByte/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
