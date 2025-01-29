@@ -46,6 +46,8 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 ### Ticketing System
 <div>
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ServiceNow-00A885?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spiceworks-F57C00?&style=for-the-badge&logo=Spiceworks&logoColor=white" />
 </div>
 
 ### SIEM Lab
