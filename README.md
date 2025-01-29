@@ -55,14 +55,14 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
 </div>
 
-### Azure Sentinel SIEM Lab
+### SIEM Lab
 <div>
-    
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
 ### MDM Policy
 <div>
-    
+  <img src="https://img.shields.io/badge/-Flyve%20MDM-004D66?&style=for-the-badge&logo=flyve-mdm&logoColor=white" />  
 </div>
 
 ## Certifications
