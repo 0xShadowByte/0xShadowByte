@@ -45,7 +45,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Ticketing System
 <div>
-    
+    <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
 ### SIEM Lab
