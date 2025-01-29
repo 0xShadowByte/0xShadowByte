@@ -35,12 +35,12 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%2010%20Enterprise-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
-
 </div>
 
 ### Network Sharing
 <div>
-    
+    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" /> 
 </div>
 
 ### Ticketing System
