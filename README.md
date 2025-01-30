@@ -17,7 +17,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
 | Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>|
 | Implementing Security Policies                                      | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a> |
-| Implement Service Accounts and SysInternals Tools                   | <a href= "https://github.com/0xShadowByte/Service-Accounts-and-SysInternals">Service Accounts and SysInternals<a/> |
 | Ticketing System                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
 | Create a honey pot environment to attract threat actors and monitor them via Azure Sentinel SIEM | <a href= "https://github.com/0xShadowByte/Azure-Sentinel-SIEM">SIEM Lab</a> |
@@ -46,13 +45,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 </div>
 
 ### Security Policies
-<div>
-    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Windows%2010%20Enterprise-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
-</div>
-
-### Service Accounts and SysInternals
 <div>
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" /> 
@@ -95,7 +87,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>
 - <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
-- <a href= "https://github.com/0xShadowByte/Service-Accounts-and-SysInternals">Service Accounts and SysInternals<a/>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>
 - <a href= "https://github.com/0xShadowByte/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
