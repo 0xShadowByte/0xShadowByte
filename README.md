@@ -19,8 +19,8 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Implementing Security Policies                                      | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a> |
 | Ticketing System                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
-| Installing Firewall on VMware Workstation Pro                          | <a >Enabling Firewall</a> |
-| Vulnerability Manager 101                                              | <a >Vulnerability Manager</a> |
+| Installing Firewall on VMware Workstation Pro                          | <a >Enabling Firewall</a> | https://www.youtube.com/watch?v=qg_i-hUKj3U
+| Vulnerability Manager 101                                              | <a >Vulnerability Manager</a> | https://www.youtube.com/watch?v=p0I8tr1MNVw&t=155s
 | Create, apply and implement and MDM policy                             | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a> |
 
 ## Tools
