@@ -19,7 +19,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Implementing Security Policies                                      | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a> |
 | Ticketing System                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
-| Create a honey pot environment to attract threat actors and monitor them via Azure Sentinel SIEM | <a href= "https://github.com/0xShadowByte/Azure-Sentinel-SIEM">SIEM Lab</a> |
 | Create, apply and implement and MDM policy                                                       | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a> |
 
 ## Tools
@@ -65,11 +64,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
 </div>
 
-### SIEM Lab
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
-
 ### MDM Policy
 <div>
   <img src="https://img.shields.io/badge/-Flyve%20MDM-004D66?&style=for-the-badge&logo=flyve-mdm&logoColor=white" />  
@@ -89,5 +83,4 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>
-- <a href= "https://github.com/0xShadowByte/Azure-Sentinel-SIEM">Azure Sentinel SIEM</a>
 - <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>
