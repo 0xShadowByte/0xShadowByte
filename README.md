@@ -67,14 +67,17 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Vulnerability Scanner
 <div>
+    <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-00C7B7?&style=for-the-badge&logo=Tenable&logoColor=white" />
     
 </div>    
+
 ### MDM Policy
 <div>
   <img src="https://img.shields.io/badge/-Flyve%20MDM-004D66?&style=for-the-badge&logo=flyve-mdm&logoColor=white" />  
 </div>
 
-## Certifications
+### Certifications
 
 <div>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
