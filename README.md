@@ -16,12 +16,13 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
 | Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>|
-| Implementing Security Policies                                      | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a> |
-| Implementing Ticketing System via Jira                                                    | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
+| Implementing Security Policies                                      | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
+| Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
 | Installing Firewall on VMware Workstation Pro                          | <a >Enabling Firewall</a> | https://www.youtube.com/watch?v=qg_i-hUKj3U
-| Vulnerability Manager 101                                              | <a >Vulnerability Manager</a> | https://www.youtube.com/watch?v=p0I8tr1MNVw&t=155s
-| Create, apply and implement and MDM policy                             | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a> |
+| Installing VPN  | <a >VPN</a>|                         
+| Vulnerability Manager 101                                              | <a href= "https://github.com/0xShadowByte/Vulnerability-Scanner">Vulnerability Manager</a>|
+| Create, apply and implement and MDM policy                             | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>|
 
 ## Tools
 
@@ -64,6 +65,10 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
 </div>
 
+### Vulnerability Scanner
+<div>
+    
+</div>    
 ### MDM Policy
 <div>
   <img src="https://img.shields.io/badge/-Flyve%20MDM-004D66?&style=for-the-badge&logo=flyve-mdm&logoColor=white" />  
@@ -83,4 +88,5 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>
+- <a href= "https://github.com/0xShadowByte/Vulnerability-Scanner">Vulnerability Manager</a>
 - <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>
