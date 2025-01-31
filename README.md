@@ -19,7 +19,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Implementing Security Policies                                      | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
 | Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
-| Installing pfSense firewall on VMware Workstation Pro                  | <a >Enabling Firewall</a> | https://www.youtube.com/watch?v=qg_i-hUKj3U
+| Installing pfSense firewall on VMware Workstation Pro                  | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |
 | Installing VPN  | <a >VPN</a>|                         
 | Vulnerability Manager 101                                              | <a href= "https://github.com/0xShadowByte/Vulnerability-Management">Vulnerability Management</a>|
 | Create, apply and implement and MDM policy                             | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>|
@@ -65,6 +65,11 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />  
 </div>
 
+### Firewall
+<div>
+    
+</div>
+
 ### Vulnerability Scanner
 <div>
     <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
@@ -91,5 +96,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>
+- <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a>
 - <a href= "https://github.com/0xShadowByte/Vulnerability-Scanner">Vulnerability Manager</a>
 - <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>
