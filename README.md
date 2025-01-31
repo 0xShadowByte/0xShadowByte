@@ -67,7 +67,8 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Firewall
 <div>
-    
+    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-003366?&style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
 ### Vulnerability Scanner
