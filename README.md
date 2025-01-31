@@ -20,7 +20,6 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Implementing Security Policies                                         | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
 | Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|
-
 | Installing pfSense firewall on VMware Workstation Pro                  | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |
 | Installing VPN                                                         | <a >VPN</a>|                         
 | Vulnerability Manager 101                                              | <a href= "https://github.com/0xShadowByte/Vulnerability-Management">Vulnerability Management</a>|
