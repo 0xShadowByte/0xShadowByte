@@ -19,7 +19,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | VLAN commands and verification                                      | <a href= "https://github.com/0xShadowByte/Switch-Configuration">Switch Configuration</a> |
 | Setting up LAN with DHCP                                            | <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a> |
 | Console and SSH Connection for Switch Configuration                 | <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a> |
-| Core and Access Switch, Voice VLANs                                 | <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic VLAN Configuration</a> | 
+| Core and Access Switch, Voice VLANs                                 | <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic Data and Voice VLAN Setup </a> | 
 | Implementing Security Policies                                         | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
 | Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Installing pfSense firewall on VMware Workstation Pro                  | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |
@@ -56,13 +56,13 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 </div>
 
-### Basic LAN Setup 
+### LAN 
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
-### Basic VLAN Configuration 
+### Data and Voice VLAN
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
@@ -120,7 +120,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/Switch-Configuration">Switch Configuration</a>
 - <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a>
 - <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a>
-- <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic VLAN Configuration</a>
+- <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic Data and Voice VLAN Setup </a>
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a>
