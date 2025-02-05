@@ -23,6 +23,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | DHCP Server Setup with Inter-VLAN Routing                           | <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> |
 | Implementing Security Policies                                         | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
 | Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
+| Troubleshooting personal printer connection issue                      | <a href= "https://github.com/0xShadowByte/printer-connection-troubleshooting">Printer Connection Troubleshooting</a> |
 | Installing pfSense firewall on VMware Workstation Pro                  | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |  
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|               
 | Vulnerability Manager 101                                              | <a href= "https://github.com/0xShadowByte/Vulnerability-Management">Vulnerability Management</a>|
@@ -80,6 +81,11 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
+### Printer Connection Troubleshooting
+<div>
+    <img src="https://img.shields.io/badge/-Windows%2010-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
 ### Firewall 
 <div>
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
@@ -125,6 +131,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> 
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
+- <a href= "https://github.com/0xShadowByte/printer-connection-troubleshooting">Printer Connection Troubleshooting</a> 
 - <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a>
 - <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>
 - <a href= "https://github.com/0xShadowByte/Vulnerability-Scanner">Vulnerability Manager</a>
