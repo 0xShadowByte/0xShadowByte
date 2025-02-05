@@ -20,6 +20,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Setting up LAN with DHCP                                            | <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a> |
 | Console and SSH Connection for Switch Configuration                 | <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a> |
 | Core and Access Switch, Voice VLANs                                 | <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic Data and Voice VLAN Setup </a> | 
+| DHCP Server Setup with Inter-VLAN Routing                           | <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> |
 | Implementing Security Policies                                         | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
 | Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Installing pfSense firewall on VMware Workstation Pro                  | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |
@@ -62,7 +63,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 </div>
 
-### Data and Voice VLAN
+### Data and Voice VLAN and DHCP Server Setup with Inter-VLAN Routing
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
@@ -121,6 +122,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a>
 - <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a>
 - <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic Data and Voice VLAN Setup </a>
+- <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> 
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
 - <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a>
