@@ -103,7 +103,8 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### MDM Policy 
 <div>
-  <img src="https://img.shields.io/badge/-Flyve%20MDM-004D66?&style=for-the-badge&logo=flyve-mdm&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Flyve%20MDM-004D66?&style=for-the-badge&logo=flyve-mdm&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Jamf-0091E5?&style=for-the-badge&logo=jamf&logoColor=white" />
 </div>
 
 ### Certifications
