@@ -81,9 +81,10 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
-### Printer Connection Troubleshooting
+### Printer Connection Troubleshooting w/ documentation from Confluence
 <div>
     <img src="https://img.shields.io/badge/-Windows%2010-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=Confluence&logoColor=white" />
 </div>
 
 ### Firewall 
