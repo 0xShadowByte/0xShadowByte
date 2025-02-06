@@ -36,6 +36,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 <div>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
 </div>
     
