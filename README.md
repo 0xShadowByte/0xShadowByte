@@ -13,6 +13,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 | Hands-On Activity                                         | Associated Projects        |
 |-----------------------------------------------------------|----------------------------|
+| Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
 | Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>|
@@ -31,6 +32,13 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Tools
 
+### Generating a Database with MySQL
+<div>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+
+</div>
+    
 ### Active Directory
 <div>
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
@@ -122,6 +130,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 </div>
 
 ## Projects
+- <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a>
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
 - <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>
 - <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>
