@@ -27,8 +27,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Troubleshooting personal printer connection issue                      | <a href= "https://github.com/0xShadowByte/printer-connection-troubleshooting">Printer Connection Troubleshooting</a> |
 | Installing pfSense firewall on VMware Workstation Pro                  | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |  
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|               
-| Vulnerability Manager 101                                              | <a href= "https://github.com/0xShadowByte/Vulnerability-Management">Vulnerability Management</a>|
+| Vulnerability Manager 101                                              | <a href= "https://github.com/0xShadowByte/Vulnerability-Management">Vulnerability Management</a> |
 | Create, apply and implement and MDM policy                             | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>|
+| IT Asset Management and Auditing                                       | <a href= "https://github.com/0xShadowByte/Asset-Management-Lab">IT Asset Management Lab</a> |
 
 ### Tools
 
@@ -123,6 +124,12 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Jamf-0091E5?&style=for-the-badge&logo=jamf&logoColor=white" />
 </div>
 
+### Asset Management
+<div>
+
+    
+</div>
+
 ### Certifications
 
 <div>
@@ -147,3 +154,4 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>
 - <a href= "https://github.com/0xShadowByte/Vulnerability-Scanner">Vulnerability Manager</a>
 - <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>
+- <a href= "https://github.com/0xShadowByte/Asset-Management-Lab">IT Asset Management Lab</a>
