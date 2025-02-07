@@ -126,7 +126,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Asset Management
 <div>
-
+    <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?&style=for-the-badge&logo=Google-Sheets&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
     
 </div>
 
