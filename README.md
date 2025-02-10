@@ -16,7 +16,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
-| Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">File and Network Sharing</a>|
+| Setting up Network Sharing on Windows Server Shared VS NTSF         | <a href= "https://github.com/0xShadowByte/Network-Sharing">File and Network Sharing</a>|
 | VLAN commands and verification                                      | <a href= "https://github.com/0xShadowByte/Switch-Configuration">Switch Configuration</a> |
 | Setting up LAN with DHCP                                            | <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a> |
 | Console and SSH Connection for Switch Configuration                 | <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a> |
