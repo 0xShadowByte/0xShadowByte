@@ -20,8 +20,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | VLAN commands and verification                                      | <a href= "https://github.com/0xShadowByte/Switch-Configuration">Switch Configuration</a> |
 | Setting up LAN with DHCP                                            | <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a> |
 | Console and SSH Connection for Switch Configuration                 | <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a> |
+| DHCP Server Setup with Inter-VLAN Routing                           | <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> 
 | Core and Access Switch, Voice VLANs                                 | <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic Data and Voice VLAN Setup </a> | 
-| DHCP Server Setup with Inter-VLAN Routing                           | <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> |
+| Port Security and Best Practices                                    | <a href= "https://github.com/0xShadowByte/Port-Security"> Port Security </a> |
 | Implementing Security Policies                                         | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
 | Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
 | Troubleshooting personal printer connection issue                      | <a href= "https://github.com/0xShadowByte/printer-connection-troubleshooting">Printer Connection Troubleshooting</a> |
@@ -61,7 +62,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" /> 
 </div>
 
-### Switch Configuration/SSH 
+### Switch Configuration/SSH/Port Security 
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
@@ -148,6 +149,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a>
 - <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a>
 - <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic Data and Voice VLAN Setup </a>
+- <a href= "https://github.com/0xShadowByte/Port-Security"> Port Security </a>
 - <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> 
 - <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>
 - <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>
