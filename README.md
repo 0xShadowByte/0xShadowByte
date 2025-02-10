@@ -16,7 +16,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
-| Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>|
+| Setting up Network Sharing on Windows Server                        | <a href= "https://github.com/0xShadowByte/Network-Sharing">File and Network Sharing</a>|
 | VLAN commands and verification                                      | <a href= "https://github.com/0xShadowByte/Switch-Configuration">Switch Configuration</a> |
 | Setting up LAN with DHCP                                            | <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a> |
 | Console and SSH Connection for Switch Configuration                 | <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a> |
@@ -56,7 +56,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
     <img src="https://img.shields.io/badge/-Windows%2010%20Enterprise-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-### Network Sharing 
+### File and Network Sharing 
 <div>
     <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%20Server%202022-00A4EF?&style=for-the-badge&logo=Windows-Server&logoColor=white" /> 
@@ -144,7 +144,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a>
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
 - <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>
-- <a href= "https://github.com/0xShadowByte/Network-Sharing">Network Sharing</a>
+- <a href= "https://github.com/0xShadowByte/Network-Sharing">File and Network Sharing</a>
 - <a href= "https://github.com/0xShadowByte/Switch-Configuration">Switch Configuration</a>
 - <a href= "https://github.com/0xShadowByte/LAN-Setup"> Basic LAN Setup</a>
 - <a href= "https://github.com/0xShadowByte/SSH-Switch-Config">SSH Switch Configuration</a>
