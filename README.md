@@ -11,8 +11,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ### Hands-On & Projects
 
-| Hands-On Activity                                         | Associated Projects        |
-|-----------------------------------------------------------|----------------------------|
+| Hands-On Activity                                                   | Associated Projects        |
+|---------------------------------------------------------------------|----------------------------|
+| Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portoilo</a> |
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
@@ -23,16 +24,22 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | DHCP Server Setup with Inter-VLAN Routing                           | <a href= "https://github.com/0xShadowByte/DHCP-Server-Setup"> DHCP Server Setup </a> 
 | Core and Access Switch, Voice VLANs                                 | <a href= "https://github.com/0xShadowByte/VLAN-Configuration"> Basic Data and Voice VLAN Setup </a> | 
 | Port Security and Best Practices                                    | <a href= "https://github.com/0xShadowByte/Port-Security"> Port Security </a> |
-| Implementing Security Policies                                         | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
-| Implementing Ticketing System via Jira                                 | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
-| Troubleshooting personal printer connection issue                      | <a href= "https://github.com/0xShadowByte/printer-connection-troubleshooting">Printer Connection Troubleshooting</a> |
-| Installing pfSense firewall on VMware Workstation Pro                  | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |  
+| Implementing Security Policies                                      | <a href= "https://github.com/0xShadowByte/Security-Policies">Security Policies</a>|
+| Implementing Ticketing System via Jira                              | <a href= "https://github.com/0xShadowByte/Ticketing-System">Ticketing System</a>|
+| Troubleshooting personal printer connection issue                   | <a href= "https://github.com/0xShadowByte/printer-connection-troubleshooting">Printer Connection Troubleshooting</a> |
+| Installing pfSense firewall on VMware Workstation Pro               | <a href= "https://github.com/0xShadowByte/Firewall">Enabling Firewall</a> |  
 | Configure an agent on Linux VM to collect logs and forward to the SIEM | <a href= "https://github.com/0xShadowByte/SIEM-Lab">SIEM Lab</a>|               
-| Vulnerability Manager 101                                              | <a href= "https://github.com/0xShadowByte/Vulnerability-Management">Vulnerability Management</a> |
-| Create, apply and implement and MDM policy                             | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>|
-| IT Asset Management and Auditing                                       | <a href= "https://github.com/0xShadowByte/Asset-Management-Lab">IT Asset Management Lab</a> |
+| Vulnerability Manager 101                                           | <a href= "https://github.com/0xShadowByte/Vulnerability-Management">Vulnerability Management</a> |
+| Create, apply and implement and MDM policy                          | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>|
+| IT Asset Management and Auditing                                    | <a href= "https://github.com/0xShadowByte/Asset-Management-Lab">IT Asset Management Lab</a> |
 
 ### Tools
+
+### Salesforce Portfoilo
+<div>
+    <img src="https://img.shields.io/badge/-Salesforce-00A1E0?&style=for-the-badge&logo=Salesforce&logoColor=white" />
+
+</div>
 
 ### Generating a Database with MySQL
 <div>
@@ -141,6 +148,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 </div>
 
 ## Projects
+- <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portoilo</a> 
 - <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a>
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
 - <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>
