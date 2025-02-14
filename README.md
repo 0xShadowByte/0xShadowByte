@@ -1,19 +1,20 @@
 ### Hello, I'm Jason 👋
 <a href="https://linkedin.com/in/jason-ling-a23a522a3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-### Brief Introduction
+## Brief Introduction
 
 I'm a dedicated cybersecurity/IT enthusiast transitioning into the field with a strong foundation in security principles. Currently, building a portfolio of projects to showcase skills and practical understanding of cybersecurity/IT concepts.
 
-### Objective
+## Objective
 
 My goal is to start my career in an IT Help Desk role, where I can apply my knowledge, assist users, and continue growing in the cybersecurity space.
 
-### Hands-On & Projects
+## Hands-On & Projects
 
 | Hands-On Activity                                                   | Associated Projects        |
 |---------------------------------------------------------------------|----------------------------|
-| Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portoilo</a> |
+| ServiceNow Portfoilo                                                | <a href= "https://github.com/0xShadowByte/ServiceNow"> ServiceNow Hands On Lab Portfoilo</a> |
+| Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portfoilo</a> |
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
@@ -33,7 +34,13 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Create, apply and implement and MDM policy                          | <a href= "https://github.com/0xShadowByte/MDM-Policy">MDM Policy</a>|
 | IT Asset Management and Auditing                                    | <a href= "https://github.com/0xShadowByte/Asset-Management-Lab">IT Asset Management Lab</a> |
 
-### Tools
+## Tools
+
+### ServiceNow Portfoilo
+<div>
+    <img src="https://img.shields.io/badge/-ServiceNow-00A1E0?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+
+</div>
 
 ### Salesforce Portfoilo
 <div>
@@ -148,6 +155,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 </div>
 
 ## Projects
+- <a href= "https://github.com/0xShadowByte/ServiceNow"> ServiceNow Hands On Lab Portfoilo</a> 
 - <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portoilo</a> 
 - <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a>
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
