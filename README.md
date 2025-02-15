@@ -16,7 +16,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | ServiceNow Service Portal                                           | <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a> |
 | ServiceNow Securing Applications Against Unauthorized Users         | <a href= "https://github.com/0xShadowByte/ServiceNow-Securing-Applications"> ServiceNow Securing Applications</a> |
 | ServiceNow IT Support Ticketing                                     | <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a> |
-| AnyDesk RDP                                                         | <a href= "https://github.com/0xShadowByte/AnyDesk"> AnyDesk Remote Desktop Protocol Practical</a> |
+| RDP On VMware Workstation Pro 17                                    | <a href= "https://github.com/0xShadowByte/RDP-on-VM"> Setting up a RDP on a VM</a> |
 | Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portfoilo</a> |
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
@@ -45,9 +45,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 </div>
 
-### AnyDesk
+### Setting up RDP on VMware Workstation Pro 17
 <div>
-    <img src="https://img.shields.io/badge/-AnyDesk-EF443B?&style=for-the-badge&logo=AnyDesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
     
 </div>
 
@@ -167,7 +167,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a>  
 - <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portoilo</a>
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a>
-- <a href= "https://github.com/0xShadowByte/AnyDesk"> AnyDesk Remote Desktop Protocol Practical</a> 
+- <a href= "https://github.com/0xShadowByte/RDP-on-VM"> Setting up a RDP on a VM</a>  
 - <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a>
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
 - <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>
