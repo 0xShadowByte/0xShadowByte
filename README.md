@@ -14,7 +14,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | Hands-On Activity                                                   | Associated Projects        |
 |---------------------------------------------------------------------|----------------------------|
 | ServiceNow Service Portal                                           | <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a> |
-| ServiceNow Securing Applications Against Unauthorized Users         | <a href= "https://github.com/0xShadowByte/ServiceNow"> ServiceNow Hands On Lab Portfoilo</a> |
+| ServiceNow Securing Applications Against Unauthorized Users         | <a href= "https://github.com/0xShadowByte/ServiceNow-Securing-Applications"> ServiceNow Hands On Lab Portfoilo</a> |
 | Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portfoilo</a> |
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
