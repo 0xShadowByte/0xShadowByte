@@ -16,7 +16,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | ServiceNow Service Portal                                           | <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a> |
 | ServiceNow Securing Applications Against Unauthorized Users         | <a href= "https://github.com/0xShadowByte/ServiceNow-Securing-Applications"> ServiceNow Securing Applications</a> |
 | ServiceNow IT Support Ticketing                                     | <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a> |
-| RDP On Kali Linux                                                   | <a href= "https://github.com/0xShadowByte/RDP-on-VM"> Setting up a RDP on a VM</a> |
+| RDP On Azure Sentinel                                               | <a href= "https://github.com/0xShadowByte/RDP-on-Azure-Sentinel"> Setting up a RDP on a VM</a> |
 | Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portfoilo</a> |
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
@@ -45,10 +45,9 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 </div>
 
-### Setting up RDP on Kali Linux
+### Setting up RDP on Azure Sentinel
 <div>
-    <img src="https://img.shields.io/badge/-VirtualBox%20VM-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali%20Linux%20on%20VirtualBox-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     
 </div>
 
