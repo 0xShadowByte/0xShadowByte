@@ -16,7 +16,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | ServiceNow Service Portal                                           | <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a> |
 | ServiceNow Securing Applications Against Unauthorized Users         | <a href= "https://github.com/0xShadowByte/ServiceNow-Securing-Applications"> ServiceNow Securing Applications</a> |
 | ServiceNow IT Support Ticketing                                     | <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a> |
-| RDP On VMware Workstation Pro 17                                    | <a href= "https://github.com/0xShadowByte/RDP-on-VM"> Setting up a RDP on a VM</a> |
+| RDP On Kali Linux                                                   | <a href= "https://github.com/0xShadowByte/RDP-on-VM"> Setting up a RDP on a VM</a> |
 | Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portfoilo</a> |
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
@@ -45,9 +45,10 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 </div>
 
-### Setting up RDP on VMware Workstation Pro 17
+### Setting up RDP on Kali Linux
 <div>
-    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro-0071C6?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox%20VM-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux%20on%20VirtualBox-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
     
 </div>
 
