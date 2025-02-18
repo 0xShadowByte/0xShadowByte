@@ -13,6 +13,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 | Hands-On Activity                                                   | Associated Projects        |
 |---------------------------------------------------------------------|----------------------------|
+| macOS Virtualization and System Troubleshooting                     | <a href= "https://github.com/0xShadowByte/macOS"> macOS VM Deployment and Optimization</a> |
 | ServiceNow Service Portal                                           | <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a> |
 | ServiceNow IT Support Ticketing                                     | <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a> |
 | RDP On Azure Sentinel                                               | <a href= "https://github.com/0xShadowByte/RDP-on-Azure-Sentinel"> Setting up a RDP on Azure Sentinel</a> |
@@ -38,9 +39,15 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ## Tools
 
+### macOS Virtualization
+<div>
+    
+</div>
+
 ### ServiceNow Portfoilo
 <div>
-    <img src="https://img.shields.io/badge/-ServiceNow-00A1E0?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS%20Ventura-FF9500?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20Workstation%20Pro%2017-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 
 </div>
 
@@ -163,6 +170,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 </div>
 
 ## Projects
+- <a href= "https://github.com/0xShadowByte/macOS"> macOS VM Deployment and Optimization</a>
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a>
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a>
 - <a href= "https://github.com/0xShadowByte/RDP-on-Azure-Sentinel"> Setting up a RDP on Azure Sentinel</a>
