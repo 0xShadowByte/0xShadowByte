@@ -179,7 +179,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 ## Projects
 - <a href= "https://github.com/0xShadowByte/macOS"> macOS VM Deployment and Optimization</a>
-- <a href= "Configuring and Managing Office 365 Services"> Office 365 Administration and User Management</a>
+- <a href= "https://github.com/0xShadowByte/O365-Admin"> Office 365 Administration and User Management</a>
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a>
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a>
 - <a href= "https://github.com/0xShadowByte/RDP-on-Azure-Sentinel"> Setting up a RDP on Azure Sentinel</a>
