@@ -19,6 +19,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | ServiceNow IT Support Ticketing                                     | <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a> |
 | RDP On Azure Sentinel                                               | <a href= "https://github.com/0xShadowByte/RDP-on-Azure-Sentinel"> Setting up a RDP on Azure Sentinel</a> |
 | Salesforce Portfoilo                                                | <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portfoilo</a> |
+| Implementing and Managing Password Policies in Okta for Enhanced Security | <a href= "https://github.com/0xShadowByte/OKTA"> Monitoring and Reporting on Password Policy Compliance</a> |
 | Generating a database with MySQL                                    | <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a> |
 | Installing Active Directory on Windows Server on VM                 | <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>|
 | Creating, Setting up, Applying and Testing Group Policy Management  | <a href= "https://github.com/0xShadowByte/Group-Policy-Management">Group Policy Management</a>|
@@ -69,6 +70,12 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 <div>
     <img src="https://img.shields.io/badge/-Salesforce-00A1E0?&style=for-the-badge&logo=Salesforce&logoColor=white" />
 
+</div>
+
+### Okta
+<div>
+    <img src="https://img.shields.io/badge/-Okta-00A1E0?&style=for-the-badge&logo=Okta&logoColor=white" />
+    
 </div>
 
 ### Generating a Database with MySQL
@@ -184,6 +191,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Ticketing"> ServiceNow Ticketing</a>
 - <a href= "https://github.com/0xShadowByte/RDP-on-Azure-Sentinel"> Setting up a RDP on Azure Sentinel</a>
 - <a href= "https://github.com/0xShadowByte/Salesforce"> Salesforce Hands On Lab Portoilo</a>
+- <a href= "https://github.com/0xShadowByte/OKTA"> Monitoring and Reporting on Password Policy Compliance</a>
 - <a href= "https://github.com/0xShadowByte/RDP-on-VM"> Setting up a RDP on a VM</a>  
 - <a href= "https://github.com/0xShadowByte/Learning-SQL">MySQL Lab</a>
 - <a href= "https://github.com/0xShadowByte/Active-Directory/tree/main">Active Directory</a>
