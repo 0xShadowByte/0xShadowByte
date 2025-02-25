@@ -13,6 +13,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 
 | Hands-On Activity                                                   | Associated Projects        |
 |---------------------------------------------------------------------|----------------------------|
+| Mastering the Order-to-Cash (O2C) Process in SAP S/4HANA            | <a href= "https://github.com/0xShadowByte/SAP-S-4HANA"> End-to-End Order-to-Cash (O2C) Process in SAP S/4HANA</a> |
 | macOS Virtualization and System Troubleshooting                     | <a href= "https://github.com/0xShadowByte/macOS"> macOS VM Deployment and Optimization</a> |
 | Configuring and Managing Office 365 Services                        | <a href= "https://github.com/0xShadowByte/O365-Admin"> Office 365 Administration and User Management</a> |
 | ServiceNow Service Portal                                           | <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a> |
@@ -40,6 +41,12 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 | IT Asset Management and Auditing                                    | <a href= "https://github.com/0xShadowByte/Asset-Management-Lab">IT Asset Management Lab</a> |
 
 ## Tools
+
+### SAP S/4HANA 
+<div>
+    <img src="https://img.shields.io/badge/-SAP%20S/4HANA-0FAAFF?&style=for-the-badge&logo=sap&logoColor=white" />
+
+</div>
 
 ### macOS Virtualization
 <div>
@@ -185,6 +192,7 @@ My goal is to start my career in an IT Help Desk role, where I can apply my know
 </div>
 
 ## Projects
+- <a href= "https://github.com/0xShadowByte/SAP-S-4HANA"> End-to-End Order-to-Cash (O2C) Process in SAP S/4HANA</a>
 - <a href= "https://github.com/0xShadowByte/macOS"> macOS VM Deployment and Optimization</a>
 - <a href= "https://github.com/0xShadowByte/O365-Admin"> Office 365 Administration and User Management</a>
 - <a href= "https://github.com/0xShadowByte/ServiceNow-Service-Portal"> ServiceNow Service Portal Lab</a>
